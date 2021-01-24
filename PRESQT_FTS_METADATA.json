@@ -1,0 +1,40 @@
+{
+    "allKeywords": [],
+    "actions": [
+        {
+            "id": "ef2acc10-4e44-4dac-8c19-d01ca36ccfe9",
+            "details": "PresQT Upload to GitHub",
+            "actionDateTime": "2021-01-24 15:57:52.525875+00:00",
+            "actionType": "resource_upload",
+            "sourceTargetName": "Local Machine",
+            "sourceUsername": null,
+            "destinationTargetName": "github",
+            "destinationUsername": "stellesky",
+            "keywords": {},
+            "files": {
+                "created": [
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/stellesky.github.io/2019_0918_Bicentennial_Digitization_MS_38.jpg",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "acafec318bd23548ac6272974b780ff9",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "2019_0918_Bicentennial Digitization_MS_38.jpg",
+                        "sourceHashes": {
+                            "md5": "acafec318bd23548ac6272974b780ff9"
+                        },
+                        "sourcePath": "/2019_0918_Bicentennial Digitization_MS_38.jpg",
+                        "extra": {}
+                    }
+                ],
+                "updated": [],
+                "ignored": []
+            }
+        }
+    ],
+    "extra_metadata": {}
+}
